@@ -1,13 +1,36 @@
 # **Joseph Rendleman** \- _Computer Engineer_
 ### University of Minnesota - BCompE
-> Creative and Passionate Comupter Engineer who's excited to innovate and learn in a fast paced, well balanced work environment. Looking for a position in embedded engineering preferrably working with sustainability and electrification.
 
-| Contact |                                                        |
-| ------- | ------------------------------------------------------ |
-| Email   |                  joe@cojilas.com                       |
-| Phone   |                  952-681-0189                          |
-| Link    |[LinkedIn](https://www.linkedin.com/in/joseph-rendleman)| 
-
+<div style="width: 100%;">
+    <div style="margin-right: 75%; height: 100px">
+        <table style="position: relative; vertical-align: top;">
+            <tr>
+                <th>Contact</th>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td>joe@cojilas.com</td>
+            </tr>
+            <tr>
+                <td>Phone</td>
+                <td>952-681-0189</td>
+            </tr>
+            <tr>
+                <td>LinkedIn</td>
+                <td><a href="https://www.linkedin.com/in/joseph-rendleman">LinkedIn</a></td>
+            </tr>
+            <tr>
+                <td>Github</td>
+                <td><a href="https://github.com/Jrendl">Github</a></td>
+            </tr>
+        </table>
+    </div>
+    <div style="margin-left: 25%;">
+        <p style="top:-60px; position: relative; vertical-align: top; margin-left: 0%">
+            Creative and Passionate Comupter Engineer who's excited to innovate and learn in a fast paced, well balanced work environment. Looking for a position in embedded engineering preferrably working with sustainability and electrification.
+        </p>
+    </div>
+</div>
 
 ## Experience
 

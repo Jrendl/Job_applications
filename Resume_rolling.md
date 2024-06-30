@@ -67,10 +67,10 @@
 |        Hard Skills       |    Soft Skills    | Programing Languages |
 | ------------------------ | ----------------- | -------------------- |
 | Microcontroller firmware | Creative Thinking |       Python         |
-|         Debug            |  Problem Solving  |        C/C++         |
-|     Lab Equipment        |    Leadership     |        Bash          |
+|           CAN            |  Problem Solving  |        C/C++         |
+|       Lab Testing        |    Leadership     |        Bash          |
 |         AI/ML            |     Teamwork      |        Make          |
 |         JIRA             |                   |       MATLAB         |
 |        Github            |                   |        Java          |
-|     Github Copilot       |                   |                      |
+|     Github Copilot       |                   |       JavaScript     |
 |      Unit Testing        |                   |                      |

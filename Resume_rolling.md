@@ -56,7 +56,7 @@
  -  Engage prospective students and parents and provide them with an introduction to the university.
 
 ### **IT Help Desk Specialist** - UMN IT (05/2020-08/2020)
- - SUpport Alum, Faculty, Staff, and Students with university related software and hardware issues.
+ - Support Alum, Faculty, Staff, and Students with university related software and hardware issues.
 
 ### **Media and Technology Intern** - Edina Public Schools IT (05/2018-08/2018)
  - Image, fix, and maintain district computers to prepare them for the next year.

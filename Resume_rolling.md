@@ -64,13 +64,14 @@
 
 ## Skills
 
-|        Hard Skills       |    Soft Skills    | Programing Languages |
-| ------------------------ | ----------------- | -------------------- |
-| Microcontroller firmware | Creative Thinking |       Python         |
-|           CAN            |  Problem Solving  |        C/C++         |
-|       Lab Testing        |    Leadership     |        Bash          |
-|         AI/ML            |     Teamwork      |        Make          |
-|         JIRA             |                   |       MATLAB         |
-|        Github            |                   |        Java          |
-|     Github Copilot       |                   |       JavaScript     |
-|      Unit Testing        |                   |                      |
+|        Hard Skills       |    Soft Skills    | Programing Languages/frameworks |
+| ------------------------ | ----------------- | ------------------------------- |
+| Microcontroller firmware | Creative Thinking |             Python              |
+|           CAN            |  Problem Solving  |              C/C++              |
+|       Lab Testing        |    Leadership     |              Bash               |
+|         AI/ML            |     Teamwork      |              Make               |
+|         JIRA             |                   |             MATLAB              |
+|        Github            |                   |              Java               |
+|     Github Copilot       |                   |            JavaScript           |
+|      Unit Testing        |                   |             pytest              |
+|        Ethernet          |                   |              UVM                |

@@ -29,57 +29,51 @@
     <div style="margin-left: 25%;">
         <header style="top:-146px; position: relative; vertical-align: top; margin-left: 50%">Summary</header>
         <p style="top:-140px; position: relative; vertical-align: top; margin-left: 10%">
-            Enthusiastic Computer Engineer with <b>hands-on experience</b> in embedded systems and firmware development. Skilled in C/C++ programming, embedded software, and debugging. Proven track record of improving system performance and leading technical projects. Seeking to leverage skills in embedded systems and contribute to innovative projects in a dynamic engineering environment.
+            Enthusiastic Computer Engineer with <b>hands-on experience</b> in <b>embedded systems and firmware development</b>. Skilled in C/C++ programming, embedded software, and debugging. Proven track record of improving system performance and leading technical projects. Seeking to leverage skills in embedded systems to contribute to innovative projects with a focus on <b>sustainability</b>.
         </p>
     </div>
 </div>
 
 ## Education
+
  **Bachelor of Computer Engineering** (ABET Accredited)
+
  University of Minnesota: College Of Science and Engineering
+
  Graduated: 05/2023
 
 ## Professional Experience
 
 ### **Silicon Validation Engineer** - HPE (08/2023-Present)
- - **Maintained** **Python** based **job-batching framework** for **Emulation** sytems with over **40 users**.
-   **Decreased** reported issues from 1-2 a day to 1-2 a month by re-writing to use modern Pythonic concepts such as context management.
- - Contributed to Python based **distributed testing framework** for network ASIC's which found
-   **over 30 bugs** in the most recent chip version using **constrained random stimulus** and other **UVM** related ideas.
- - **Increased performance** of testing framework on small **ARM** based switch controllers by **80%** using benchmarking
-   tools such as **py-spy** and performance enhancers such as **Cython**.
- - **Lead** and **coordinated** 2 team interns to complete over 10 individual **JIRA** each throughout
-   their summer internship.
- - **Lead** 2 engineers with **20+ years of experience** to develop a **pytest** suite for our job batching
+ - Maintained and enhanced **Python**-based **job-batching framework** for **Emulation** sytems with over **40 users**,
+   reducing reported issues by **90%** through modernization.
+ - Contributed to a **distributed testing framework** for network ASICs, identifying over **30 bugs** using constrained
+   random stimulus and UVM concepts.
+ - **Boosted performance** of testing framework on small **ARM** based switch controllers by **80%** using
+   tools such as **py-spy** and **Cython**.
+ - **Led** and **coordinated** a team of 2 interns, overseeing the completion of **20+ JIRA**.
+ - Guided 2 engineers with **20+ years of experience** in developing a **pytest** suite for the job batching
    framework.
- - Participated in **code review**s and emphasized **readability** and **efficiency** of code to colleagues.
- - **Maintained 2-3 Github Repositories**.
+ - Participated in **code review**s emphasizing **readability** and **efficiency**; **maintained 2-3 Github Repositories**.
 
 ### **Electrical Team Technical Lead** - UMN Solar Vehicle Project (05/2021-05/2023)
- - **Simplified and improved the reliability of Embedded C++ Software** applications for **ECUs** used to control the
-   vehicle's **SAE J1772** charging interface and lights and vision peripherals.
- - **Designed and Assembled PMSM Motors** used on vehicle to win **2nd place** at the World Solar Challenge.
-   Increased motor torque output by **56%** while maintaining an efficiency of **96%** and a top speed of **70 mph** in a limited space.
- - Developed Python based **Strategy Solver** tool with a **REACT.js** web-GUI used to calculate vehicle efficiency and
-   improve race performance as well as receive and decode **real-time, wireless vehicle telemetry** for vehicle monitoring during race.
- - Participated in **debug** of many systems on the car including the vehicle **CAN** bus, wiring harness, and hardware and firmware
-   malfunctions using tools such as **oscilloscopes, logic analyzers, and CAN sniffers** on both in-vehicle and **HIL** environments.
+ - Enhanced **embedded C++ software** for **ECUs** controlling vehicle's **SAE J1772** charging interface and lights and vision peripherals.
+ - Designed and assembled **PMSM motors**, achieving a 56% increase in torque and 96% efficiency within tight constraints,
+   contributing to a **2nd place finish** at the World Solar Challenge.
+ - Developed a Python-based Strategy Solver tool with a **REACT.js** web-GUI for vehicle efficiency and telemetry decoding.
+ - Debugged vehicle systems, including **CAN** bus and wiring, using **oscilloscopes**, **logic analyzers**, and **CAN sniffers**
+   in a **HIL** environment.
  - Particapated in the 2022 American Solar Challenge as a driver and strategy team member and won **1st place** in the
    MOV class.
- - Participated in **code reviews** as one of the lead developers and maintainers of vehicle code.
- - **Lead** and **Educated** 20-30 new team members on both the **Firmware** and **Motors** teams.
- - Helped make important team decisions as part of the **Executive team**. 
+ - Led code reviews, educated **20-30 new team members**, and participated in the executive team for critical decision-making.
 
 ### **Silicon Validation Intern** - HPE (06/2022-08/2022)
  - Developed **Scapy** based Ethernet packet creation library for test framework.
- - Expanded my knowledge of validation engineering, Ethernet protocol, and the system structure of supercomputers.
+ - Expanded my knowledge of validation engineering and **Ethernet protocols**.
 
 ### **Undergraduate Researcher** - UMN ECE (02/2021-05/2022)
  - Participated in 2 research projects under professors Kia Bazargan and Marc Riedel.
- - Modeled a **Neural Network** for use in **5G network channel estimation** for **Massive MIMO** systems using **CUDA toolkit
-   for python**.
- - Modeled a **Neural Network** for predictions of **HLA-protein binding strengths** used in **COVID immunology**
-   also using **CUDA**.
+ - Modeled **neural networks** for 5G network channel estimation and COVID immunology using **CUDA** toolkit for Python.
 
 ## Additional Experience
 
@@ -87,11 +81,11 @@
  -  Engageed 10-20 prospective students and parents in each tour and provided them with an introduction to the university.
 
 ### **IT Help Desk Specialist** - UMN IT (05/2020-08/2020)
- - **Supported** Alumni, Faculty, Staff, and Students with university-related **software and hardware issues**.
- - Interacted with 30-40 customers daily via online chat, email, and phone calls.
+ - **Supported** Alumni, Faculty, Staff, and Students with university-related **software and hardware issues**,
+   Interacting with 30-40 customers daily.
 
 ### **Media and Technology Intern** - Edina Public Schools IT (05/2018-08/2018)
- - **Imaged, fixed, and maintained** over 100 district computers to prepare them for the next school year.
+ - Prepared over **100 district computers** for the school year through imaging, repairs, and maintenance.
 
 
 ## Technical Skills
@@ -100,4 +94,3 @@
 - Embedded Systems: Arduino, Raspberry Pi
 - Microcontrollers: STM32G4/F4/G0/L4, Microchip PIC24
 - RTOS: FreeRTOS
-- 

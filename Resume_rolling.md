@@ -14,7 +14,7 @@
             </tr>
             <tr>
                 <td>Current Location</td>
-                <td>Minneapolis, MN</td>
+                <td>Los Angeles, CA</td>
             </tr>
             <tr>
                 <td>LinkedIn</td>
@@ -29,7 +29,7 @@
     <div style="margin-left: 25%;">
         <header style="top:-146px; position: relative; vertical-align: top; margin-left: 50%">Summary</header>
         <p style="top:-140px; position: relative; vertical-align: top; margin-left: 10%">
-            Enthusiastic Computer Engineer with <b>hands-on experience</b> in <b>embedded systems and firmware development</b>. Skilled in C/C++ programming, embedded software, and debugging. Proven track record of improving system performance and leading technical projects. Seeking to leverage skills in embedded systems to contribute to innovative projects with a focus on <b>sustainability</b>.
+            Enthusiastic Computer Engineer with <b>hands-on experience</b> in <b>embedded systems and firmware development</b>. Skilled in C/C++ programming, embedded software, and debugging. Proven track record of improving system performance and leading technical projects. Seeking to leverage creativity and technical skills in embedded systems to contribute to innovative projects with a focus on <b>sustainability</b>.
         </p>
     </div>
 </div>
@@ -44,7 +44,15 @@
 
 ## Professional Experience
 
-### **Silicon Validation Engineer** - HPE (08/2023-Present)
+### **Embedded Software Test Engineer** - Medtronic (11/2024-Present)
+ - Managed, maintained, and troubleshooted **20 HIL** stations used for pump testing in both regression and manual testing
+   environments.
+ - Developed Python toolset to automate the repetative steps in HIL station maintenance from scratch, reducing time spent to
+   flash the station hardware from 2 hours a week to 30 minutes a week.
+ - Adapted test designs into Javascript-based test scripts and executed test scripts in bot SIL and HIL environments.
+ - **Root-caused** regression issues, reporting software and library bugs through **JIRA**.
+
+### **Silicon Validation Engineer** - HPE (08/2023-11/2024)
  - Maintained and enhanced **Python**-based **job-batching framework** for **Emulation** sytems with over **40 users**,
    reducing reported issues by **90%** through modernization.
  - Contributed to a **distributed testing framework** for network ASICs, identifying over **30 bugs** using constrained
@@ -90,7 +98,7 @@
 
 ## Technical Skills
 
-- Programming Languages: Python, C/C++, Bash, Make, MATLAB, Java, JavaScript
+- Programming Languages: Python, JavaScript, C/C++, Bash, Make, MATLAB, Java
 - Embedded Systems: Arduino, Raspberry Pi
 - Microcontrollers: STM32G4/F4/G0/L4, Microchip PIC24
 - RTOS: FreeRTOS

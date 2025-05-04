@@ -51,6 +51,7 @@
    flash the station hardware from 2 hours a week to 30 minutes a week.
  - Adapted test designs into Javascript-based test scripts and executed test scripts in bot SIL and HIL environments.
  - **Root-caused** regression issues, reporting software and library bugs through **JIRA**.
+ - Effectively balanced many projects and completed assignments punctually on a sprint based timeline.
 
 ### **Silicon Validation Engineer** - HPE (08/2023-11/2024)
  - Maintained and enhanced **Python**-based **job-batching framework** for **Emulation** sytems with over **40 users**,
@@ -62,7 +63,7 @@
  - **Led** and **coordinated** a team of 2 interns, overseeing the completion of **20+ JIRA**.
  - Guided 2 engineers with **20+ years of experience** in developing a **pytest** suite for the job batching
    framework.
- - Participated in **code review**s emphasizing **readability** and **efficiency**; **maintained 2-3 Github Repositories**.
+ - Participated in **code reviews** emphasizing **readability** and **efficiency**; **maintained 2-3 Github Repositories**.
 
 ### **Electrical Team Technical Lead** - UMN Solar Vehicle Project (05/2021-05/2023)
  - Enhanced **embedded C++ software** for **ECUs** controlling vehicle's **SAE J1772** charging interface and lights and vision peripherals.
